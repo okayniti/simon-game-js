@@ -4,7 +4,7 @@ A browser-based memory game built using JavaScript where players must repeat an 
 
 ## 🎥 Demo
 
-![Simon Game Demo](D:\Niti\Career\web dev\Simon+Game+Challenge+Starting+Files\ScreenRecording2026-02-23081549-ezgif.com-video-to-gif-converter.mp4)
+![Simon Game Demo]D:\Niti\Career\web dev\Simon+Game+Challenge+Starting+Files\ScreenRecording2026-02-23081549-ezgif.com-video-to-gif-converter.mp4
 ## Features
 - Random sequence generation
 - Level-based difficulty progression
