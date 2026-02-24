@@ -3,6 +3,7 @@
 A browser-based memory game built using JavaScript where players must repeat an increasingly complex sequence of colors and sounds.
 
 ## 🎥 Demo
+https://github.com/user-attachments/assets/5f7396fc-5185-45e4-a22d-bfbb0d176654
 
 ![Simon Game Demo](D:\Niti\Career\web dev\Simon+Game+Challenge+Starting+Files\ScreenRecording2026-02-23081549-ezgif.com-video-to-gif-converter.mp4)
 ## Features
