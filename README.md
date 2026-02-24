@@ -3,7 +3,8 @@
 A browser-based memory game built using JavaScript where players must repeat an increasingly complex sequence of colors and sounds.
 
 ## 🎥 Demo
-(https://github.com/user-attachments/assets/9159d397-3882-42ff-b4cb-4929b3b31a39)
+https://github.com/user-attachments/assets/9159d397-3882-42ff-b4cb-4929b3b31a39
+
 ## Features
 - Random sequence generation
 - Level-based difficulty progression
